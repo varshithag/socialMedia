@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+  }
+  body{
+    background: #fec107;
+    padding: 0 30px
+  }
+
+
+  .wrapper{
+    max-width: 500px;
+    width: 100%;
+    background: #fff;
+    margin: 50px 900px;
+    
+    padding: 50px 50px;
+  }
+  .wrapper .title{
+      font-size: 25px;
+      font-weight: 900;
+      margin-bottom: 25px;
+      color: #fec107;
+      text-align: center;
+  }
+  .wrapper .inputField{
+      color: #757575;
+  }
+  .wrapper .btn{
+      background-color: #fec107;
+      width: 100%;
+      
+      
+  }
